@@ -1,0 +1,25 @@
+This project introduces a smart, offline-first system designed to bring transparency, accountability, and ease to rural waste collection — especially in areas still relying on manual, paper-based tracking. By creating a simple yet powerful connection between PDOs (Panchayat Development Officers), SHGs (Self-Help Groups), Workers, and Households, the system ensures that every waste pickup is verifiable and traceable, even in areas with poor internet access.
+How the System Solves the Real Problems on the Ground:
+->Offline-First Logging for Workers
+Workers use a lightweight mobile app that works even without internet.
+They log each pickup by capturing a photo, GPS location, and timestamp.
+The data is safely stored on their phone and automatically synced once they regain connectivity.
+This replaces messy paper registers and reduces errors or manipulation.
+-> Household Confirmation for Trust
+Once the log is synced, households receive a record of the pickup — including the photo and time — on their own app interface.
+They can then confirm or reject the service with a simple tap.
+This builds trust and creates a reliable record for both the community and the workers.
+->SHG Dashboard for Assignments and Monitoring
+SHGs get a clear admin panel where they can assign daily routes to workers and monitor task completion.
+It helps ensure that all assigned areas are being covered — and highlights if anything gets missed.
+->PDO Dashboard for Oversight and Disputes
+PDOs can log in and see a bigger picture:
+Which pickups were completed, which were disputed, and where problems are repeating.
+They can step in to resolve any issues by checking the logged data and household responses.
+->Feedback Loop for Continuous Improvement
+Households can submit service feedback — even if they’re offline at the time.
+The feedback gets synced later and is reviewed by SHGs and PDOs to improve operations and service quality.
+->Cloud Sync and Data Transparency
+All data flows through a central cloud database (like Firebase or MySQL), so stakeholders can see what’s happening — either in real time or whenever they’re online.
+This keeps everyone informed, aligned, and accountable.
+
